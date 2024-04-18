@@ -10,6 +10,6 @@ Notificações: Receba alertas sobre prazos e atualizações.
 
 * Tecnologias Utilizadas *
   
-Frontend: HTML, CSS
+Frontend: HTML, BOOTSTRAP
 Backend: PHP
 Banco de Dados: MySQL
